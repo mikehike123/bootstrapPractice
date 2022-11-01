@@ -1,6 +1,6 @@
 @charset "UTF-8";
-.root-3uY95 {
-  background-color: #fff !important;
+#root-3uY95 {
+  background-color: #fff;
 }
 
 #hero {
@@ -12,6 +12,9 @@
   background-image: url(../img/repair-and-maintenance.jpg);
   background-size: 200px 200px;
   color: #000;
+}
+#hero h1, #hero .h1 {
+  color: #333;
 }
 
 #testimonials {
